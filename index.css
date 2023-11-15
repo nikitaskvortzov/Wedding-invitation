@@ -1,8 +1,8 @@
 body {
-    background-image: url(10019183.png);
+    background-image: url(Фон.jpg);
     background-repeat: no-repeat;
-    
-}
+    }
+
 
 .div0 {
     position: relative;
@@ -88,23 +88,35 @@ body {
 
 
    @media (max-width: 760px) {
-    .div1 {
-      font-size: 32px;
+    
+    body {
+        background-image: url(1671650652_kalix-club-p-nezhno-zheltii-fon-oboi-1.jpg);
     }
 
+    .div0 {
+      font-size: 30px;
+      width:      500px;
+      height:     30px;
+      text-align: center;
+      margin-left: 60px;
+         }
+  
+    .img0 {
+        display: none;
+    }
     .img1 {
-        max-width: 100px;
+        display: none;
     }
 
     .img2 {
-        max-width: 100px;
+        display: none;
     }
 
     .img3 {
-        max-width: 100px;
+        display: none;
     }
 
     .img4 {
-        max-width: 100px;
+        display: none;
     }
 }
