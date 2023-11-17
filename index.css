@@ -92,6 +92,7 @@ body {
     
     body {
         background-image: url(svadba-v-stile-love-is-1.jpg);
+        background-color: #fdfdfd;
         
         
     }
@@ -130,4 +131,20 @@ body {
         display: none; 
     }
 
+    audio {
+    margin-top: 700px;
+    margin-left: 35px;
+    background: #c80b7d;
+   
     }
+
+    }
+
+
+   @media (min-width: 760px) {
+    
+  audio {
+    display: none; 
+  }
+
+   }
