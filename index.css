@@ -1,5 +1,5 @@
 body {
-    background-image: url(1671722668_kalix-club-p-fon-dlya-prezentatsii-nezhno-zheltii-vkont-2.jpg);
+    background-image: url(1671753712_kalix-club-p-cherno-zheltii-fon-dlya-prezentatsii-insta-6.png);
     background-repeat: no-repeat;
     }
 
@@ -68,39 +68,43 @@ body {
 }    
 
    .img1:hover {
-    outline: 5px solid #10e910;
+    outline: 5px solid #040404;
    }
 
    .img2:hover {
-    outline: 5px solid #10e910;
+    outline: 5px solid #040404;
    }
 
    .img3:hover {
-    outline: 5px solid #10e910;
+    outline: 5px solid #040404;
    }
 
    .img4:hover {
-    outline: 5px solid #10e910;
+    outline: 5px solid #040404;
    }
 
    .img0:hover {
-    outline: 5px solid #10e910;
+    outline: 5px solid #040404;
    }
 
 
    @media (max-width: 760px) {
     
     body {
-        background-image: url(1671650652_kalix-club-p-nezhno-zheltii-fon-oboi-1.jpg);
+        background-image: url(svadba-v-stile-love-is-1.jpg);
+        
+        
     }
 
   
     .div0 .div1 {
-      font-size: 40px;
-      width:      700px;
+      font-size: 20px;
+      width:      600px;
       height:     30px;
       text-align: center;
-      margin-left: -35px;
+      margin-left: -140px;
+      margin-top: -50px;
+      color: #c80b7d;
          }
   
     .img0 {
