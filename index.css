@@ -91,21 +91,18 @@ body {
    @media (max-width: 760px) {
     
     body {
-        background-image: url(svadba-v-stile-love-is-1.jpg);
-        background-color: #fdfdfd;
-        
+        background-image: url(1627005664_33-kartinkin-com-p-milii-fon-s-serdechkami-krasivo-33.jpg);
         
     }
 
-  
     .div0 .div1 {
       font-size: 20px;
       width:      600px;
       height:     30px;
       text-align: center;
       margin-left: -140px;
-      margin-top: -50px;
-      color: #c80b7d;
+      margin-top: -110px;
+      color: #881b1b;
          }
   
     .img0 {
@@ -134,8 +131,7 @@ body {
     audio {
     margin-top: 700px;
     margin-left: 35px;
-    background: #c80b7d;
-   
+          
     }
 
     }
